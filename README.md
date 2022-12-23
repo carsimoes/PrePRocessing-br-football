@@ -1,6 +1,7 @@
 # PreProcessing-br-football
 
-Arquivos jogos_<ano>:
+- Files 
+-- jogos_<ano>:
 § id_arena
 § id_clube1
 § id_clube2
@@ -14,14 +15,14 @@ Arquivos jogos_<ano>:
 § rodada
 § qtd_gols_clube1
 § qtd_gols_cube2
-b. Arquivo estados.csv:
+-- estados.csv:
 § id_estado
 § sigla_estado
 § desc_estado
-c. Arquivo arenas.csv:
+-- arenas.csv:
 § id_arena
 § desc_arena
-d. Arquivo clubes.csv:
+-- clubes.csv:
 § id_clube
 § desc_club
 
